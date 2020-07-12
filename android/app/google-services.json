@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774587919705",
+    "firebase_url": "https://easyfitness-4d050.firebaseio.com",
+    "project_id": "easyfitness-4d050",
+    "storage_bucket": "easyfitness-4d050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774587919705:android:1f6edd8fd920ad7eb9b048",
+        "android_client_info": {
+          "package_name": "com.example.easy_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774587919705-mofi3r6tcurs461ff40ueog1riersepp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnK2fZNLRbve4cbzCT18fbB-V7aJj6qKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774587919705-mofi3r6tcurs461ff40ueog1riersepp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
