@@ -1,16 +1,22 @@
 # easyrecipe
 
-A new Flutter project.
+A beautiful recipes app with flutter and mealdb api. Clean design and perfect backend
 
-## Getting Started
+## Full Details
 
-This project is a starting point for a Flutter application.
+* Users get three categories of food . Seafood, native food and vegetarian
+* Users get also breakfast, starter and dessert recipes
+* Users can click on a recipe and they get full details about it. 
+* The Details are ingredients, directions, youtube video, category, image , drink and tags
+* There is one page where a user gets a random recipe
+* The other page is where users gets food  from india, turkey and usa
+* The search page is still under development
+* Api used was mealdb api
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="screenshots/Screenshot_1594564081.png" height=400em> <img src="screenshots/Screenshot_1594564103.png" height=400em> <img src="Screenshot_1594564113.png" height=400em>
+<img src="screenshots/Screenshot_1594564122.png" height=400em> <img src="screenshots/Screenshot_1594564133.png" height=400em>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
